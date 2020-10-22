@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://bryceeerickson.netlify.app/"
 languageCode = "en-us"
-title = "Bryce Erickson Portfolio Site"
+title = "Bryce Erickson Portfolio Site 1"
 theme = "Forty"
 
 # Enter your tracking code to enable Google Analytics
